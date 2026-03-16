@@ -16,21 +16,18 @@
 
 <h2 align="left">Skills</h2>
 
-<!-- Programming Languages -->
-###
-<div align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px">
-  <b>Programming Languages -</b>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="background:#fff; border-radius:5px; padding:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="background:#fff; border-radius:5px; padding:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="background:#fff; border-radius:5px; padding:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" style="background:#fff; border-radius:5px; padding:5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" style="background:#fff; border-radius:5px; padding:5px;" />
+<!-- Programming Languages Section -->
+<div style="margin-bottom: 30px;">
+  <h3 style="margin-bottom: 15px;">Programming Languages -</h3>
+  <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#"/>
+  </div>
 </div>
 
-###
-###
-###
 
 
 <!-- FrontEnd -->
@@ -65,6 +62,7 @@
 ###
 ###
 ###
+
 
 
 <!-- Database -->
