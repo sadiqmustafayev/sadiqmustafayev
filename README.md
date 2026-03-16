@@ -18,7 +18,7 @@
 
 <!-- Programming Languages -->
 ###
-<div align="left" style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; margin-bottom: 30px">
+<div align="left" style="display: flex; gap: 20px; flex-wrap: wrap; margin-bottom: 30px">
   <b>Programming Languages -</b>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
