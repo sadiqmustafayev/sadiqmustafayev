@@ -20,19 +20,19 @@
 <table>
   <tr>
     <td><b>Programming Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=js,py,ts,cpp,cs" /></td>
+    <td><img src="https://skillicons.dev/icons?i=js,py,ts,cpp,cs&gap=20" /></td>
   </tr>
   <tr>
     <td><b>FrontEnd</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&gap=20" /></td>
   </tr>
   <tr>
     <td><b>BackEnd</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,django,express,postman" /></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,django,express,postman&gap=20" /></td>
   </tr>
   <tr>
     <td><b>DataBase</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,supabase" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,supabase&gap=20" /></td>
   </tr>
   <tr>
     <td><b>🌐 Social Media</b></td>
